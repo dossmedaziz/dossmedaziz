@@ -2,8 +2,8 @@
 
 <a href="http://d0ss.me/" target="blank">My Website</a>
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact : I code without drinking Coffe
 
+<imf src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
