@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning : MERN stack
 - ⚡ Fun fact : I code without drinking Coffe
 
-<img src="https://github-readme-stats.vercel.app/api?username=dossmedaziz&&show_icons=true&title_color=27ae60&icon_color=f1c40f&text_color=ecf0f1&bg_color=34495e"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dossmedaziz&&show_icons=true&title_color=#c0392b&icon_color=f1c40f&text_color=ecf0f1&bg_color=34495e"/>
