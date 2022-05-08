@@ -7,8 +7,8 @@ Backend Developer
 Hi : Currently I am working as backend/Laravel Developer . I have a passion for learning and sharing my knowledge with others . Welcome to my Github 😁
 
 * 🌍  I'm based in Tunisia ( Somewhere in Africa planet )
-* 🖥️  See my portfolio at [My Portoflio](http://d0ss.me)
-* ✉️  You can contact me at [dossaziz4@gmail.com](mailto:dossaziz4@gmail.com)
+* 🖥️  See my portfolio at [d0ss.me](http://d0ss.me)
+* ✉️  You can contact me at [📧](mailto:dossaziz4@gmail.com)
 
 ### Skills
 
